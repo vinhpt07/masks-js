@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brunokrebs/masks-js.git"
+    "url": "git+https://github.com/vinhpt07/masks-js.git"
   },
   "keywords": [
     "node.js",
@@ -22,9 +22,9 @@
   "author": "Bruno Krebs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brunokrebs/masks-js/issues"
+    "url": "https://github.com/vinhpt07/masks-js/issues"
   },
-  "homepage": "https://github.com/brunokrebs/masks-js#readme",
+  "homepage": "https://github.com/vinhpt07/masks-js#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-istanbul": "^4.1.5",
