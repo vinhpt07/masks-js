@@ -11,3 +11,6 @@ deploy:
   on:
     tags: true
     repo: vinhpt07/masks-js
+    branches:
+      only:
+        - master 
