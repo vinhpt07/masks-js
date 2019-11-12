@@ -5,7 +5,7 @@ const digitsOnly = /^\d+$/;
 function maskUSPhone(phone) {
   // returning null when getting null, undefined, or an object that is no string as a parameter
   if (!phone || typeof phone !== 'string') {
-    return null;
+    return 'nothing';
   }
 
   // returning the untouched value when it contains non-digit chars
